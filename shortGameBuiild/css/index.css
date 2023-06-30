@@ -1,0 +1,38 @@
+#topRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 55px 5px 5px 5px;
+}
+#blue{
+    margin-right: 85px;
+    margin-top: 75px;
+}
+#red{
+    margin-top: 75px;
+}
+.stats{
+    width: 310px;
+    
+}
+.healthLabel{
+    font: 18pt Arial;
+    font-weight: bold;
+}
+.hpBorder{
+    width: 300px;
+    height: 30px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.hpBar{
+    width: 300px;
+    height: 30px;
+    background-color: green;
+    
+}
+.fighter{
+    width: 250px;
+    height: 310px;
+    margin-left: 85px;
+}
